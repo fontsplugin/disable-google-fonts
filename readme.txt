@@ -2,7 +2,7 @@
 Contributors: DannyCooper, googlefonts
 Tags: google, gdpr, dsgvo, google fonts, disable google fonts
 Requires at least: 4.8
-Tested up to: 5.6
+Tested up to: 5.7
 License: GPLv2 or later
 Stable tag: trunk
 
